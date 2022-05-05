@@ -1,0 +1,140 @@
+    1  /cita/local/bin/passwd
+    2  exit
+    3  whoami
+    4  w
+    5  top
+    6  pwd
+    7  cd
+    8  pwd
+    9  cd
+   10  pwd
+   11  cd ~fhorrobin/
+   12  pwd
+   13  ~
+   14  ls
+   15  echo $0
+   16  pwd
+   17  cd ~
+   18  pwd
+   19  cd ..
+   20  pwd
+   21  cd ~murray
+   22  dc Papers
+   23  cd Papers
+   24  ls
+   25  ls -la
+   26  pwd
+   27  cd 1068
+   28  la
+   29  ls
+   30  dir
+   31  m
+   32  ls -la
+   33  cd
+   34  pwd
+   35  cd ~murray
+   36  cd Papers/Hopkins/
+   37  cd ~murray
+   38  ls
+   39  cd Papers/Hopkins/All_Feedback/second_draft
+   40  evince sfh_vs_fbmodel.pdf
+   41  history
+   42  cd
+   43  ls
+   44  mkdir CTA200_2020
+   45  ls
+   46  ls -la m
+   47  ls -la
+   48  cd CTA200_2020
+   49  cd
+   50  ls -la
+   51  which vi
+   52  vi list_dir
+   53  q
+   54  quit
+   55  exit
+   56  pwd
+   57  module avail
+   58  cd
+   59  mv CITA_2020
+   60  mv --help
+   61  mv CITA_2020 to CITA_2022
+   62  mv Rename
+   63  pwd
+   64  mkdir CITA_2022
+   65  ls
+   66  mkdir CTA200_2022
+   67  cd CTA200_2022
+   68  pwd
+   69  mkdir assignment_1
+   70  cd assignment_1
+   71  pwd
+   72  vi README.md
+   73  ls
+   74  vi README.md
+   75  cd
+   76  pwd
+   77  ls
+   78  cd home
+   79  cd /home
+   80  ls
+   81  cd /home/murray
+   82  ls
+   83  pwd
+   84  ls -la
+   85  find Hello_world
+   86  find Hello_world.c
+   87  "find-name"*Hello_world*"
+   88  a
+   89  cd
+   90  pwd
+   91  cd /home/murray
+   92  find --help
+   93  pwd
+   94  find -name "*Hello_world*"
+   95  cd /tmp
+   96  cp Hello_world.py /home/student16/CTA200_2022/assignment_1
+   97  ls
+   98  pwd
+   99  cd /home/murray/tmp
+  100  pwd
+  101  ls
+  102  cp Hello_world.py /home/student16/CTA200_2022/assignment_1
+  103  cd ../Papers/tmp
+  104  pwd
+  105  ls
+  106  cp Hello_world.c /home/student16/CTA200_2022/assignment_1
+  107  cd
+  108  pwd
+  109  cd CTA200_2022/assignment_1
+  110  pwd
+  111  la
+  112  ls
+  113  mv Hello_world.c Hello_world_Levesque.c
+  114  mv Hello_world.py Hello_world_Levesque.py
+  115  ls
+  116  module vail
+  117  module avail
+  118  module load python
+  119  module load gcc
+  120  gcc Hello_world_Levesque.c
+  121  ls
+  122  ./a.out
+  123  python Hello_world_Levesque.py
+  124  ls
+  125  ./a.out
+  126  mv a.out Hello_world.x
+  127  ./Hello_world.x
+  128  vi Hello_world.c
+  129  ls
+  130  pwd
+  131  vi Hello_world_Levesque.c
+  132  vi Hello_world_Levesque.py
+  133  gcc Hello_world_Levesque.c
+  134  ls
+  135  mv a.out Hello_world.x
+  136  Hello_world.x
+  137  ./Hello_world.x
+  138  ./Hello_world.x > output_c.txt
+  139  python Hello_world_Levesque.py > output_python.txt
+  140  history > history.txt
