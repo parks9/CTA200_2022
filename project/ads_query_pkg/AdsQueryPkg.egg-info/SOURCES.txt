@@ -1,0 +1,8 @@
+README.md
+setup.py
+AdsQueryPkg.egg-info/PKG-INFO
+AdsQueryPkg.egg-info/SOURCES.txt
+AdsQueryPkg.egg-info/dependency_links.txt
+AdsQueryPkg.egg-info/top_level.txt
+ads_query_pkg/__init__.py
+ads_query_pkg/ads_query.py
